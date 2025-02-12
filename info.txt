@@ -1,1 +1,16 @@
-learning design patterns with python
+1- practicas curso python
+    1. Dados dos números, escriba un código Python para encontrar el mínimo de estos dos números
+    2. Invertir palabras de una cadena dada.
+    3. Realizar una suma de los elementos de una tupla
+    4. Escriba un código que calcule una lista de números proporcionados.
+    5. Escriba un código que desordene al azar una lista.
+    6. Escriba un código que pueda contar todas las palabras mayúsculas de un archivo.
+    7. ¿Si la lista 1 es [4, 6, 8, 1, 0, 3], que sería la lista 1 [-1]
+    8. Escriba un programa para producir la serie Fibonacci en Python.
+    9. Escriba un programa en Python para comprobar si un número es primo.
+    10. Escribir un programa en Python para comprobar si un número es capicúa. Es decir, si se lee igual de derecha a izquierda que de izquierda a derecha.
+    11. Escribir un algoritmo de ordenación para un conjunto de datos numéricos en Python.
+    12. ¿Cuál de las siguientes declaraciones es inválida?
+    13. ¿Cuál es el resultado de ejecutar el siguiente código?
+    14. ¿Como se puede acceder al último índice de una lista?
+2- learning design patterns with python
